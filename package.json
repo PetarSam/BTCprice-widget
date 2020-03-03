@@ -1,0 +1,22 @@
+{
+  "name": "bitcoinprice-desktopapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetarSam/BitcoinPrice-desktopApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetarSam/BitcoinPrice-desktopApp/issues"
+  },
+  "homepage": "https://github.com/PetarSam/BitcoinPrice-desktopApp#readme",
+  "dependencies": {
+    "electron": "^8.0.3"
+  }
+}
